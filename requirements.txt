@@ -1,0 +1,4 @@
+aiohttp==3.7.4.post0
+asyncio==3.4.3
+colorama==0.4.4
+discord.py==1.7.3

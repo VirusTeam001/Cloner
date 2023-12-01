@@ -1,0 +1,5 @@
+pip install discord.py==1.7.3
+pip install psutil
+pip install colorama
+pip install asyncio
+pip install aiohttp
